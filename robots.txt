@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://codereflections.com/sitemap.xml
