@@ -7,7 +7,23 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://codereflections.com/tags/chatgpt/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>What&#x27;s in a name?</title>
+          <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://codereflections.com/2023/04/20/whats-in-a-name/</link>
+          <guid>https://codereflections.com/2023/04/20/whats-in-a-name/</guid>
+          <description>&lt;p&gt;How did I choose CodeReflections as the name for this blog?  With some help
+from ChatGPT!&lt;&#x2F;p&gt;
+&lt;p&gt;I always dread trying to think of a good name for a new project, because I&#x27;m
+much better at rejecting name ideas than thinking of one I actually like and
+can use.  Having already decided to use ChatGPT as a tool to help with this
+blog, I figured it could help me brainstorm to find a good name for the blog.&lt;&#x2F;p&gt;
+&lt;p&gt;It was a &lt;strong&gt;very&lt;&#x2F;strong&gt; long conversation with ChatGPT (GPT-4 model), but it was
+ultimately successful.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Welcome to CodeReflections!</title>
           <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
