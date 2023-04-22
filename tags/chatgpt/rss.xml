@@ -7,7 +7,20 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://codereflections.com/tags/chatgpt/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>How the sausage is made.</title>
+          <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://codereflections.com/2023/04/21/how-the-sausage-is-made/</link>
+          <guid>https://codereflections.com/2023/04/21/how-the-sausage-is-made/</guid>
+          <description>&lt;p&gt;Continuing the origin story of this blog, after a long conversation with
+ChatGPT, I had settled on a name and was lucky enough to be able to register
+the &amp;quot;codereflections.com&amp;quot; domain.  Next, I had to choose a blogging platform
+and hosting platform.  Should I use WordPress or something else?  I needed to
+do some research and think about this decision.  ChatGPT was happy to help.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>What&#x27;s in a name?</title>
           <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
