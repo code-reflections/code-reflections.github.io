@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>CodeReflections - Zola</title>
+      <link>https://codereflections.com</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://codereflections.com/tags/zola/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Choosing a blogging platform.</title>
+          <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://codereflections.com/2023/04/22/choosing-a-blogging-platform/</link>
+          <guid>https://codereflections.com/2023/04/22/choosing-a-blogging-platform/</guid>
+          <description>&lt;p&gt;After my &lt;a href=&quot;&#x2F;2023&#x2F;04&#x2F;20&#x2F;how-the-sausage-is-made&#x2F;&quot;&gt;initial exploration of blogging
+platforms&lt;&#x2F;a&gt; and &lt;a href=&quot;&#x2F;2023&#x2F;04&#x2F;21&#x2F;searching-for-a-hosting-provider&#x2F;&quot;&gt;finding a VPS hosting
+provider&lt;&#x2F;a&gt;, I needed to decide
+which blogging platform to use.  ChatGPT continued to assist with the
+decision-making process.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
