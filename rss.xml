@@ -7,7 +7,20 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://codereflections.com/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Searching for a hosting provider...</title>
+          <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://codereflections.com/2023/04/21/searching-for-a-hosting-provider/</link>
+          <guid>https://codereflections.com/2023/04/21/searching-for-a-hosting-provider/</guid>
+          <description>&lt;p&gt;&lt;a href=&quot;&#x2F;2023&#x2F;04&#x2F;20&#x2F;how-the-sausage-is-made&#x2F;&quot;&gt;Yesterday&#x27;s post&lt;&#x2F;a&gt; didn&#x27;t finish the
+story of selecting a blogging platform, because I diverted to a side quest of
+finding a VPS hosting provider to be able to implement a comment system.  I&#x27;ll
+finish the story of the blogging platform in &lt;a href=&quot;&#x2F;2023&#x2F;04&#x2F;22&#x2F;choosing-a-blogging-platform&#x2F;&quot;&gt;tomorrow&#x27;s
+post&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>How the sausage is made.</title>
           <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>

@@ -16,6 +16,10 @@
         <lastmod>2023-04-20</lastmod>
     </url>
     <url>
+        <loc>https://codereflections.com/2023/04/21/searching-for-a-hosting-provider/</loc>
+        <lastmod>2023-04-21</lastmod>
+    </url>
+    <url>
         <loc>https://codereflections.com/categories/</loc>
     </url>
     <url>
@@ -31,6 +35,12 @@
         <loc>https://codereflections.com/tags/</loc>
     </url>
     <url>
+        <loc>https://codereflections.com/tags/buyvm/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/buyvm/page/1/</loc>
+    </url>
+    <url>
         <loc>https://codereflections.com/tags/chatgpt/</loc>
     </url>
     <url>
@@ -41,5 +51,23 @@
     </url>
     <url>
         <loc>https://codereflections.com/tags/codereflections/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/frantech/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/frantech/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/server-hunter/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/server-hunter/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/vps-hosting/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/vps-hosting/page/1/</loc>
     </url>
 </urlset>
