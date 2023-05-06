@@ -7,14 +7,26 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://codereflections.com/tags/chatgpt/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Choosing a website theme.</title>
+          <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://codereflections.com/2023/05/05/choosing-a-website-theme/</link>
+          <guid>https://codereflections.com/2023/05/05/choosing-a-website-theme/</guid>
+          <description>&lt;p&gt;Continuing the conversation with ChatGPT, in &lt;a href=&quot;&#x2F;2023&#x2F;04&#x2F;23&#x2F;choosing-a-comment-system&#x2F;&quot;&gt;my last
+post&lt;&#x2F;a&gt;, I decided to use Remark42 as the
+comment system for this blog.  Next, I need to choose a website theme to use
+for the blog with the Zola static site generator.&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Choosing a comment system.</title>
           <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
           <author>Unknown</author>
           <link>https://codereflections.com/2023/04/23/choosing-a-comment-system/</link>
           <guid>https://codereflections.com/2023/04/23/choosing-a-comment-system/</guid>
-          <description>&lt;p&gt;My lengthy conversation with ChatGPT continues!  In &lt;a href=&quot;&#x2F;2023&#x2F;04&#x2F;22&#x2F;choosing-a-blogging-platform&quot;&gt;yesterday&#x27;s
+          <description>&lt;p&gt;My lengthy conversation with ChatGPT continues!  In &lt;a href=&quot;&#x2F;2023&#x2F;04&#x2F;22&#x2F;choosing-a-blogging-platform&#x2F;&quot;&gt;yesterday&#x27;s
 post&lt;&#x2F;a&gt;, I decided to use Zola as the
 blogging platform.  Now I have to figure out how to integrate a comment system
 into a static site generator...&lt;&#x2F;p&gt;
