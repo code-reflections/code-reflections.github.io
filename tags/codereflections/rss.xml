@@ -7,7 +7,20 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://codereflections.com/tags/codereflections/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Fine-tuning the website theme.</title>
+          <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+          <author>Deven T. Corzine</author>
+          <link>https://codereflections.com/2023/05/13/fine-tuning-the-website-theme/</link>
+          <guid>https://codereflections.com/2023/05/13/fine-tuning-the-website-theme/</guid>
+          <description>&lt;p&gt;Continuing my endless conversation with ChatGPT, in &lt;a href=&quot;&#x2F;2023&#x2F;05&#x2F;05&#x2F;choosing-a-website-theme&#x2F;&quot;&gt;my last
+post&lt;&#x2F;a&gt;, I decided to use Zola&#x27;s
+DeepThought theme for this blog.  I figured out how to emulate WordPress-style
+URLs, but there were still a number of other details I needed to iron out.
+Decisions, decisions...&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Choosing a website theme.</title>
           <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
