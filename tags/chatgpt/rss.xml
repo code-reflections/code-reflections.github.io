@@ -7,7 +7,25 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://codereflections.com/tags/chatgpt/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Formatting ChatGPT conversations.</title>
+          <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Deven T. Corzine</author>
+          <link>https://codereflections.com/2023/06/23/formatting-chatgpt-conversations/</link>
+          <guid>https://codereflections.com/2023/06/23/formatting-chatgpt-conversations/</guid>
+          <description>&lt;p&gt;Oops!  It&#x27;s been over a month since &lt;a href=&quot;&#x2F;2023&#x2F;05&#x2F;13&#x2F;fine-tuning-the-website-theme&#x2F;&quot;&gt;my last
+post&lt;&#x2F;a&gt; about fine-tuning the website
+theme.  I&#x27;ve been expecting this from the start, that sooner or later I&#x27;d fall
+behind on making new blog posts because of being busy and distracted by
+everyday life.  Oh well.  (I&#x27;ll try not to fall so far behind again, but I&#x27;m
+sure it will happen again, probably sooner than later!)&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve also been procrastinating on this post because formatting these ChatGPT
+conversations is a rather tedious process.  That procrastination contributed to
+the long delay since my last post.  Actually, figuring out how to format
+ChatGPT conversations is the topic of this post...&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Fine-tuning the website theme.</title>
           <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
