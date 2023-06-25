@@ -7,7 +7,21 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://codereflections.com/categories/meta/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Trouble with dark mode theme.</title>
+          <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Deven T. Corzine</author>
+          <link>https://codereflections.com/2023/06/24/trouble-with-dark-mode-theme/</link>
+          <guid>https://codereflections.com/2023/06/24/trouble-with-dark-mode-theme/</guid>
+          <description>&lt;p&gt;I started working on formatting ChatGPT conversations in &lt;a href=&quot;&#x2F;2023&#x2F;06&#x2F;23&#x2F;formatting-chatgpt-conversations&#x2F;&quot;&gt;my last
+post&lt;&#x2F;a&gt;, but along the way, I also
+stumbled across another problem with the website design.  The DeepThought theme
+comes with a dark mode button, but I found that clicking it turned my avatar
+into some weird inverse color image.  I decided to take a detour to research
+this issue...&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Formatting ChatGPT conversations.</title>
           <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
