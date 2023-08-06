@@ -44,6 +44,10 @@
         <lastmod>2023-06-24</lastmod>
     </url>
     <url>
+        <loc>https://codereflections.com/2023/08/05/wrapping-up-the-origin-story/</loc>
+        <lastmod>2023-08-05</lastmod>
+    </url>
+    <url>
         <loc>https://codereflections.com/categories/</loc>
     </url>
     <url>
@@ -53,7 +57,13 @@
         <loc>https://codereflections.com/categories/meta/page/1/</loc>
     </url>
     <url>
+        <loc>https://codereflections.com/categories/meta/page/2/</loc>
+    </url>
+    <url>
         <loc>https://codereflections.com/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/page/2/</loc>
     </url>
     <url>
         <loc>https://codereflections.com/tags/</loc>
@@ -71,10 +81,16 @@
         <loc>https://codereflections.com/tags/chatgpt/page/1/</loc>
     </url>
     <url>
+        <loc>https://codereflections.com/tags/chatgpt/page/2/</loc>
+    </url>
+    <url>
         <loc>https://codereflections.com/tags/codereflections/</loc>
     </url>
     <url>
         <loc>https://codereflections.com/tags/codereflections/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/codereflections/page/2/</loc>
     </url>
     <url>
         <loc>https://codereflections.com/tags/deepthought/</loc>
