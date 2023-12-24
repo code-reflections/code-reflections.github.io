@@ -48,6 +48,10 @@
         <lastmod>2023-08-05</lastmod>
     </url>
     <url>
+        <loc>https://codereflections.com/2023/12/23/using-git-submodules-with-zola/</loc>
+        <lastmod>2023-12-23</lastmod>
+    </url>
+    <url>
         <loc>https://codereflections.com/categories/</loc>
     </url>
     <url>
@@ -103,6 +107,18 @@
     </url>
     <url>
         <loc>https://codereflections.com/tags/frantech/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/git/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/git/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/github-pages/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/github-pages/page/1/</loc>
     </url>
     <url>
         <loc>https://codereflections.com/tags/remark42/</loc>
