@@ -52,6 +52,10 @@
         <lastmod>2023-12-23</lastmod>
     </url>
     <url>
+        <loc>https://codereflections.com/2023/12/24/bootstrapping-perl-without-a-compiler/</loc>
+        <lastmod>2023-12-24</lastmod>
+    </url>
+    <url>
         <loc>https://codereflections.com/categories/</loc>
     </url>
     <url>
@@ -62,6 +66,12 @@
     </url>
     <url>
         <loc>https://codereflections.com/categories/meta/page/2/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/categories/story/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/categories/story/page/1/</loc>
     </url>
     <url>
         <loc>https://codereflections.com/page/1/</loc>
@@ -97,6 +107,12 @@
         <loc>https://codereflections.com/tags/codereflections/page/2/</loc>
     </url>
     <url>
+        <loc>https://codereflections.com/tags/cross-compiling/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/cross-compiling/page/1/</loc>
+    </url>
+    <url>
         <loc>https://codereflections.com/tags/deepthought/</loc>
     </url>
     <url>
@@ -109,6 +125,12 @@
         <loc>https://codereflections.com/tags/frantech/page/1/</loc>
     </url>
     <url>
+        <loc>https://codereflections.com/tags/gcc/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/gcc/page/1/</loc>
+    </url>
+    <url>
         <loc>https://codereflections.com/tags/git/</loc>
     </url>
     <url>
@@ -119,6 +141,12 @@
     </url>
     <url>
         <loc>https://codereflections.com/tags/github-pages/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/perl/</loc>
+    </url>
+    <url>
+        <loc>https://codereflections.com/tags/perl/page/1/</loc>
     </url>
     <url>
         <loc>https://codereflections.com/tags/remark42/</loc>

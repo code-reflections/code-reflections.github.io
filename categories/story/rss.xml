@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>CodeReflections - Story</title>
+      <link>https://codereflections.com</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://codereflections.com/categories/story/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Bootstrapping Perl without a compiler.</title>
+          <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+          <author>Deven T. Corzine</author>
+          <link>https://codereflections.com/2023/12/24/bootstrapping-perl-without-a-compiler/</link>
+          <guid>https://codereflections.com/2023/12/24/bootstrapping-perl-without-a-compiler/</guid>
+          <description>&lt;p&gt;Back in March of 1991, I started a new job as a software developer for a very
+small company.  From day one, I knew that Perl was an essential tool which I
+needed for the job.  However, I needed Perl to run on an &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Altos_Computer_Systems&quot;&gt;Altos
+Unix&lt;&#x2F;a&gt; system which was
+missing the C compiler, so this was easier said than done!  It turned out to be
+an interesting bootstrapping challenge to solve using free software, though it
+did require jumping through a few hoops.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
