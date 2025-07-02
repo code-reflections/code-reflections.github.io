@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>CodeReflections - PDF::Data</title>
+      <link>https://codereflections.com</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://codereflections.com/tags/pdf-data/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>It&#x27;s been quiet around here...</title>
+          <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+          <author>Deven T. Corzine</author>
+          <link>https://codereflections.com/2025/07/01/its-been-quiet-around-here/</link>
+          <guid>https://codereflections.com/2025/07/01/its-been-quiet-around-here/</guid>
+          <description>&lt;p&gt;Whoops!  Looks like I lost track of time entirely.  This time, it&#x27;s been &lt;strong&gt;a
+year and a half&lt;&#x2F;strong&gt; since &lt;a href=&quot;&#x2F;2023&#x2F;12&#x2F;24&#x2F;bootstrapping-perl-without-a-compiler&quot;&gt;my last
+post&lt;&#x2F;a&gt;! 😱&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

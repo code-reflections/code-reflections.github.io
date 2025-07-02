@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>CodeReflections - Regular Expressions</title>
+      <link>https://codereflections.com</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://codereflections.com/tags/regular-expressions/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Wrapping up the origin story.</title>
+          <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+          <author>Deven T. Corzine</author>
+          <link>https://codereflections.com/2023/08/05/wrapping-up-the-origin-story/</link>
+          <guid>https://codereflections.com/2023/08/05/wrapping-up-the-origin-story/</guid>
+          <description>&lt;p&gt;Well, it&#x27;s been over a month again since &lt;a href=&quot;&#x2F;2023&#x2F;06&#x2F;24&#x2F;trouble-with-dark-mode-theme&quot;&gt;my last
+post&lt;&#x2F;a&gt;.  July was a busy month again,
+especially because I was a
+&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;tprc2023.sched.com&#x2F;event&#x2F;1Lhnq&#x2F;making-sense-of-regular-expressions&quot;&gt;speaker&lt;&#x2F;a&gt;
+at &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;tprc.to&#x2F;tprc-2023-tor&#x2F;&quot;&gt;The Perl and Raku Conference 2023&lt;&#x2F;a&gt; in
+Toronto, Ontario, Canada.  The recording of my &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=FUB4wZSsxm4&quot;&gt;Making Sense of Regular
+Expressions&lt;&#x2F;a&gt; talk is on YouTube.
+More on that later -- this post is about wrapping up the origin story of this
+blog, although there&#x27;s still a bit more to come...&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
