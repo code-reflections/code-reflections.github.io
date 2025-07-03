@@ -7,7 +7,24 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="https://codereflections.com/tags/chatgpt/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Website hosting, worldwide CDN and DDoS protection, all for free!</title>
+          <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+          <author>Deven T. Corzine</author>
+          <link>https://codereflections.com/2025/07/03/website-hosting-worldwide-cdn-and-ddos-protection-all-for-free/</link>
+          <guid>https://codereflections.com/2025/07/03/website-hosting-worldwide-cdn-and-ddos-protection-all-for-free/</guid>
+          <description>&lt;p&gt;When I created this blog website, I decided from the start to use a static site
+generator instead of a dynamic site like Wordpress, so that the site would be
+faster and also suitable for free hosting on &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pages.github.com&#x2F;&quot;&gt;GitHub
+Pages&lt;&#x2F;a&gt;, rather than having to pay a hosting provider
+to host the website.  Now I&#x27;ve leveled up, moving
+&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codereflections.com&#x2F;&quot;&gt;CodeReflections.com&lt;&#x2F;a&gt; to
+&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;cloudflare.com&#x2F;&quot;&gt;Cloudflare&lt;&#x2F;a&gt;, utilizing their awesome CDN (Content
+Delivery Network) to cache the website worldwide with excellent protection
+against DDoS (Distributed Denial of Service) attacks — also for free!&lt;&#x2F;p&gt;
+</description>
+      </item>
       <item>
           <title>Using Git submodules with Zola!</title>
           <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
